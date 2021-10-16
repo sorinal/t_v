@@ -1,2 +1,4 @@
 print('AAA')
 
+print('BBB')
+
